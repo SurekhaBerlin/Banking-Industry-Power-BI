@@ -1,0 +1,41 @@
+{
+  "name": "Cool Blue Pastels Theme",
+  "dataColors": [
+    "#f0f3fa",
+    "#d5deef",
+    "#b1c9ef",
+    "#8aaee0",
+    "#628ecb",
+    "#395886"
+  ],
+  "background": "#f0f3fa",
+  "foreground": "#395886",
+  "tableAccent": "#8aaee0",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "titleText": [
+          {
+            "color": {
+              "solid": {
+                "color": "#395886"
+              }
+            },
+            "fontSize": 13,
+            "fontFamily": "Segoe UI"
+          }
+        ],
+        "labelText": [
+          {
+            "color": {
+              "solid": {
+                "color": "#395886"
+              }
+            },
+            "fontSize": 11
+          }
+        }
+      }
+    }
+  }
+}

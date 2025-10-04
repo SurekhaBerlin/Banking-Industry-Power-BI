@@ -1,0 +1,36 @@
+{
+  "name": "Oxford & Yale Blue Theme",
+  "dataColors": [
+    "#00132d", "#00193b", "#001e45", "#002657", "#002d67", "#00377e"
+  ],
+  "background": "#00132d",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#00377e",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "titleText": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "fontSize": 13,
+            "fontFamily": "Segoe UI"
+          }
+        ],
+        "labelText": [
+          {
+            "color": {
+              "solid": {
+                "color": "#A5CBFF"
+              }
+            },
+            "fontSize": 11
+          }
+        }
+      }
+    }
+  }
+}
